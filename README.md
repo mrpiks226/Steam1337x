@@ -21,7 +21,7 @@ Choose your browser below to see the instructions:
 <summary><b>🦊 Mozilla Firefox (Permanent Install)</b></summary>
 <br>
 
-1. **Download the signed file:** [Click here to download steam1337x.xpi](./steam1337x.xpi)
+1. **Download the signed file:** [Click here to download steam1337x.xpi](./Steam1337x-Firefox.xpi)
 2. Open Firefox and type `about:addons` in the address bar.
 3. Click the **Gear Icon** (⚙️) in the top-right menu.
 4. Select **"Install Add-on From File..."**
